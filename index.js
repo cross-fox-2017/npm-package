@@ -1,4 +1,4 @@
-exports.personality-reading = {
+module.exports = {
   readName: function(name) {
     name = name.split('')
     return name.map(function(data){
@@ -39,11 +39,11 @@ exports.personality-reading = {
     }
   },
   name: function(name){
-    let data = reading.numberPicker(String(reading.reducer(reading.readName(name))))
-    return reading.summary(data)
+    let data = this.numberPicker(String(this.reducer(this.readName(name))))
+    return this.summary(data)
   },
   birthdate: function(date){
-    let data = reading.numberPicker(String(reading.reducer(reading.readBirthdate(date))))
-    return reading.summary(data)
+    let data = this.numberPicker(String(this.reducer(this.readBirthdate(date))))
+    return this.summary(data)
   }
 }
