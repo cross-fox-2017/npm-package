@@ -1,0 +1,22 @@
+{
+  "name": "search-index-of-array",
+  "version": "0.1.0",
+  "description": "search index of array useing binary search",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didietsuryadi/npm-package.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "didietsuryadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didietsuryadi/npm-package/issues"
+  },
+  "homepage": "https://github.com/didietsuryadi/npm-package#readme"
+}
