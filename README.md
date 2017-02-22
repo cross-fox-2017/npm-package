@@ -1,8 +1,9 @@
 # Image Placeholder Unsplash
 
 ## Getting Started
-
+```
 npm install image-placeholder-unsplash
+```
 
 ## Examples
 
