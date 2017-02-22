@@ -1,0 +1,28 @@
+{
+  "name": "personality-reading",
+  "version": "0.1.0",
+  "description": "Get your personality based on unique criteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syanmil/npm-package.git"
+  },
+  "keywords": [
+    "personality",
+    "reading",
+    "future",
+    "psychology",
+    "assessment",
+    "self-discovery",
+    "self-development"
+  ],
+  "author": "Syanmil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syanmil/npm-package/issues"
+  },
+  "homepage": "https://github.com/Syanmil/npm-package#readme"
+}
