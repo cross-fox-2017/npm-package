@@ -1,0 +1,31 @@
+{
+  "name": "image-placeholder-unsplash",
+  "version": "1.0.0",
+  "description": "Beautiful placeholders using images from unsplash",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadlykayo/npm-package.git"
+  },
+  "keywords": [
+    "image",
+    "placeholder",
+    "image",
+    "placeholder",
+    "unsplash",
+    "lorem",
+    "lorem",
+    "pixel",
+    "lorem",
+    "ipsum"
+  ],
+  "author": "fkayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadlykayo/npm-package/issues"
+  },
+  "homepage": "https://github.com/fadlykayo/npm-package#readme"
+}
