@@ -1,0 +1,24 @@
+{
+  "name": "san-money",
+  "version": "0.1.0",
+  "description": "This library help you to create a beautifull money format",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanBastia/npm-package.git"
+  },
+  "keywords": [
+    "money",
+    "currency",
+    "formatter"
+  ],
+  "author": "Irsan Sebastian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanBastia/npm-package/issues"
+  },
+  "homepage": "https://github.com/sanBastia/npm-package#readme"
+}
