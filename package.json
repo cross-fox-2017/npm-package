@@ -1,0 +1,11 @@
+{
+  "name": "matrix-in-spiral",
+  "version": "0.1.2",
+  "description": "Print a given matrix in spiral",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yomaswn",
+  "license": "ISC"
+}
