@@ -1,0 +1,19 @@
+{
+  "name": "codex-math-solve",
+  "version": "1.0.0",
+  "description": "math solve from string",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timocodex/npm-package.git"
+  },
+  "author": "timocodex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timocodex/npm-package/issues"
+  },
+  "homepage": "https://github.com/timocodex/npm-package#readme"
+}
