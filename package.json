@@ -1,6 +1,6 @@
 {
   "name": "personality-reading",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get your personality based on unique criteria",
   "main": "index.js",
   "scripts": {
