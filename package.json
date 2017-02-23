@@ -1,0 +1,16 @@
+{
+  "name": "konversiangka",
+  "version": "0.1.1",
+  "description": "Sebuah tool untuk memudahkan konversi angka menjadi kalimat (satuan hingga triliun)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "konversi",
+    "angka",
+    "kalimat"
+  ],
+  "author": "Raditya Arya",
+  "license": "ISC"
+}
